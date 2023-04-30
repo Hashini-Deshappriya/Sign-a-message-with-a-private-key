@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-Description: OauthTest
+Bundle-SymbolicName: OauthTest
+Built-By: hashini
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1678959244975
+Import-Package: org.apache.synapse,org.apache.synapse.mediators
+DynamicImport-Package: *
+Tool: Bnd-1.15.0
+Bundle-Name: OauthTest
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_362
+
